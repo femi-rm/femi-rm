@@ -11,7 +11,7 @@
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Professional-orange?style=for-the-badge&logo=amazonaws)
 ![GitHub](https://img.shields.io/badge/GitHub-femi--rm-black?style=for-the-badge&logo=github)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-femi--rm-blue?style=for-the-badge&logo=linkedin)
-[![email](https://img.shields.io/badge/email-femiraheem7@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:femiraheem7@gmail.com)
+[![email](https://img.shields.io/badge/email-femiraheem7@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red&label=email)](mailto:femiraheem7@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=femi-rm&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
