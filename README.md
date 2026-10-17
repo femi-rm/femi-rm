@@ -4,10 +4,16 @@
 
 **Aspiring AWS Cloud Professional | Cloud Enthusiast**
 
-[![AWS](https://img.shields.io/badge/AWS-Cloud%20Professional-orange?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-femi--rm-black?style=for-the-badge&logo=github)](https://github.com/femi-rm)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-femi--rm-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/femi-rm)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=AWS+Cloud+Professional;Cloud+Enthusiast;From+Lagos+to+the+Cloud!" />
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-Cloud%20Professional-orange?style=for-the-badge&logo=amazonaws)
+![GitHub](https://img.shields.io/badge/GitHub-femi--rm-black?style=for-the-badge&logo=github)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-femi--rm-blue?style=for-the-badge&logo=linkedin)
 [![Email](https://img.shields.io/badge/Email-femiraheem7@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:femiraheem7@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=femi-rm&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
 </div>
 
@@ -18,12 +24,13 @@
 - 🌱 Learning: `EC2` `S3` `IAM` `VPC` `Route 53` `CloudFormation`
 - 🎯 Goal: AWS Certified Solutions Architect
 - 📍 Lagos, Nigeria
+- 💬 Ask me about: Cloud, AWS, GitHub
 
 ☁️ **My Cloud Journey**
 AWS Cloud Professional (In Progress)
 → Mastering core AWS services
 → Hands-on Labs & Architecture
-→ Certification Prep
+→ Certification Prep → AWS Certified
 
 🛠️ **Tools & Technologies**
 <p>
@@ -39,13 +46,13 @@ AWS Cloud Professional (In Progress)
 
 ![Femi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=femi-rm&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femi-rm&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=femi-rm&theme=tokyonight)
 
 </div>
 
 📫 **Let's Connect**
 - 💼 LinkedIn: [linkedin.com/in/femi-rm](https://linkedin.com/in/femi-rm)
 - 📧 Email: femiraheem7@gmail.com
-- ☁️ GitHub: [@femi-rm](https://github.com/femi-rm)
 
 ---
 
