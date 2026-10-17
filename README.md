@@ -1,14 +1,56 @@
-## Hi, I'm Raheem Obafemi Olayinka 👋 
-**Backend Engineer | Java & Python | Leicester, UK** 
+<div align="center">
 
-DipHE Software Engineering graduate (University of Leicester, 2023-2026) - 240 UK Credits. Seeking a 6-month Backend Engineer Internship (Java/Python).
+### Hi there, I'm Femi 👋
 
-### 🛠️ Tech Stack **Languages:** Java, Python, JavaScript, SQL, C++, HTML/CSS **Backend:** Spring Boot, Flask, RESTful APIs, JWT Authentication, Microservices, Database Design **Databases:** PostgreSQL, MySQL, SQLite **Tools:** Git & GitHub, Docker, VS Code, Postman, JUnit, Maven, Agile ### 
+**Aspiring AWS Cloud Professional | Cloud Enthusiast**
 
-📌 Featured Projects **[Task Manager API](https://github.com/femi-m/task-manager)** | Python Flask, JavaScript, SQL - Full-stack task manager with CRUD, user auth, and RESTful APIs - SQLite/MySQL integration, deployed on Render 
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Professional-orange?style=for-the-badge&logo=amazonaws)](https://aws.amazon.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-femi--rm-black?style=for-the-badge&logo=github)](https://github.com/femi-rm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-femi--rm-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/femi-rm)
+[![Email](https://img.shields.io/badge/Email-femiraheem7@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:femiraheem7@gmail.com)
 
-**Java Spring Boot API** (In Progress) | Java 17, Spring Boot 3, PostgreSQL, Docker, JWT - Simple CRUD API with JWT auth - Building this week 
+</div>
 
-### 💼 Experience **Software Engineering Intern - Syndell** | Jul - Aug 2024 - Enhanced client management system with optimized SQL queries - Designed RESTful API endpoints with improved data validation & security - Agile collaboration with Dev & QA teams 
+---
 
-### 📫 Connect - 📧 femiraheem7@gmail.com - 💼 [LinkedIn](https://linkedin.com/in/femi-m) - 🌍 Leicester, UK --- *Open to Backend Internship opportunities - Let's build something great!*
+🚀 **About Me**
+- 🔭 Currently focusing on: **AWS Cloud Professional**
+- 🌱 Learning: `EC2` `S3` `IAM` `VPC` `Route 53` `CloudFormation`
+- 🎯 Goal: AWS Certified Solutions Architect
+- 📍 Lagos, Nigeria
+
+☁️ **My Cloud Journey**
+AWS Cloud Professional (In Progress)
+→ Mastering core AWS services
+→ Hands-on Labs & Architecture
+→ Certification Prep
+
+🛠️ **Tools & Technologies**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+</p>
+
+📊 **GitHub Stats**
+<div align="center">
+
+![Femi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=femi-rm&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femi-rm&layout=compact&theme=tokyonight)
+
+</div>
+
+📫 **Let's Connect**
+- 💼 LinkedIn: [linkedin.com/in/femi-rm](https://linkedin.com/in/femi-rm)
+- 📧 Email: femiraheem7@gmail.com
+- ☁️ GitHub: [@femi-rm](https://github.com/femi-rm)
+
+---
+
+<div align="center">
+
+⭐ *From Lagos to the Cloud - Building one service at a time* ⭐
+
+</div>
